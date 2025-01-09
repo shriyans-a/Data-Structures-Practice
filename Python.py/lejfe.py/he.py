@@ -1,2 +1,0 @@
-led = "k"
-print(led)
